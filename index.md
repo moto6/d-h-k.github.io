@@ -7,7 +7,7 @@
 <br>
 
 
-# 할일목록(To-Do list JS)
+# 할일목록(To-Do list)
 ![img](./img/Todo.png){: width="50%" height="50%"}
 - Demo : [https://d-h-k.github.io/Timer/](https://d-h-k.github.io/Timer/)
 - 사용기술 : HTML,CSS, JavaScript
@@ -22,10 +22,10 @@
 
 
 # 그림판(Paint JS)
+![img](./img/jspaintpic.png)
 - Demo : [https://d-h-k.github.io/Paint/](https://d-h-k.github.io/Paint/)
 - 사용기술 : HTML,CSS, JavaScript
-<img src="/img/jspaintpic.png" border="1px" width="450" >
-- 실제 동작 예시
+
 
 <br>
 <br>
@@ -33,10 +33,9 @@
 
 
 # 쿠킹타이머(Cooking timer JS)
+![img](./img/ctimer.png)
 - Demo : [https://d-h-k.github.io/Cook/](https://d-h-k.github.io/Cook/)
 - 사용기술 : HTML,CSS, JavaScript
-<img src="/img/ctimer.png" width="450" >
-
 
 
 <br>

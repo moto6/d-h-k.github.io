@@ -36,7 +36,7 @@
 <hr size="5px">
 
 
-## 제목(부제/영어)
+## Node REST API(부제/영어)
 - Demo : https://d-h-k.github.io/Paint/(링크)
 - 사용기술 : HTML,CSS, JavaScript
 <img src="/img/@@이미지위치@@@" width="450" >

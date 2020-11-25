@@ -12,7 +12,7 @@
 <br>
 <img src="/img/Todo.png" border="3px" width="450" >
 <br>
-------------------
+==================================
 
 
 ## 그림판(Paint JS)
@@ -21,11 +21,11 @@
 <img src="/img/jspaintpic.png" border="1px" width="450" >
 <br>
 <br>
-------------------
+=================================
 <br>
 <br>
 <br>
-------------------
+=================================
 ## 쿠킹타이머(Cooking timer JS)
 - Demo : https://d-h-k.github.io/Cook/
 - 사용기술 : HTML,CSS, JavaScript

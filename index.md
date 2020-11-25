@@ -9,7 +9,7 @@
 ## 할일목록(To-Do list JS)
 - Demo : https://d-h-k.github.io/Timer/
 - 사용기술 : HTML,CSS, JavaScript
-<img src="/img/Todo.png" width="450" boder="1px">
+<img src="/img/Todo.png" width="450" border="1px">
 <br>
 <br>
 <hr color=#4287f5 size="5px">
@@ -18,7 +18,7 @@
 ## 그림판(Paint JS)
 - Demo : https://d-h-k.github.io/Paint/
 - 사용기술 : HTML,CSS, JavaScript
-<img src="/img/jspaintpic.png" width="450" >
+<img src="/img/jspaintpic.png" width="450" border="1px">
 <br>
 <br>
 

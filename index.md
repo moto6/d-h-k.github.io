@@ -7,7 +7,7 @@
 ## 할일목록(To-Do list JS)
 - Demo : https://d-h-k.github.io/Timer/
 - 사용기술 : HTML,CSS, JavaScript
-- ![ex_screenshot](./img/jspaintpic.png)
+- ![ex_screenshot](./img/jspaintpic.png){: width="100" }
 <br>
 <br>
 
@@ -19,7 +19,10 @@
 <br>
 
 
+<!--- 
 
+{: width="100" height="100"}
+--->
 
 
 ### Markdown

@@ -8,8 +8,8 @@
 
 
 # 할일목록(To-Do list JS)
-![img](./img/Todo.png)
-- Demo : [https://d-h-k.github.io/Timer/](https://d-h-k.github.io/Timer/){: width="50%" height="50%"}
+![img](./img/Todo.png){: width="50%" height="50%"}
+- Demo : [https://d-h-k.github.io/Timer/](https://d-h-k.github.io/Timer/)
 - 사용기술 : HTML,CSS, JavaScript
 - 실제 동작 예시
 

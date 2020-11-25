@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Cooking Timer main</title>
+</head>
+
+<body>
+  <form action="" name="myform">
+    <div align="center">
+      <strong>Cooking Timer</strong><br><br>
+
+      <select id="TimeSelector" name="Choice">
+        <option value="180">시간을 선택해주십시오</option>
+        <!--- 선택하지 않는경우,기본 3분 --->
+        <option value="600">10분</option>
+        <option value="420">7분</option>
+        <option value="300">5분</option>
+        <option value="240">4분</option>
+        <option value="180">3분</option>
+        <option value="120">2분</option>
+        <option value="60">1분</option>
+        <option value="30">30초</option>
+        <option value="15">15초</option>
+        <option value="10">10초</option>
+        <option value="1">TEST1-second</option>
+      </select>
+
+      <input type="button" value="Start" onclick="KUKOO()">
+      <br><br>
+
+      <span id="countdown">time selected</span>
+      <br><br>
+
+      <input type="button" value="Close" onclick='window.close()'>
+
+    </div>
+
+  </form>
+  <script src="app.js"></script>
+
+</body>
+
+</html>

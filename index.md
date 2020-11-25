@@ -4,14 +4,17 @@
 <br>
 <br>
 <hr color=#4287f5 size="5px">
+
+
 ## 할일목록(To-Do list JS)
 - Demo : https://d-h-k.github.io/Timer/
 - 사용기술 : HTML,CSS, JavaScript
 <img src="/img/todo.png" width="450" >
 <br>
 <br>
+<hr color=#4287f5 size="5px">
 
-<hr color="blue" size="5px">
+
 ## 그림판(Paint JS)
 - Demo : https://d-h-k.github.io/Paint/
 - 사용기술 : HTML,CSS, JavaScript
@@ -19,7 +22,7 @@
 <br>
 <br>
 
-
+<hr color=#4287f5 size="5px">
 <!--- 
 
 {: width="100" height="100"}

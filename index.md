@@ -12,7 +12,7 @@
 <br>
 <img src="/img/Todo.png" border="3px" width="450" >
 <br>
-<hr size="5px">
+------------------
 
 
 ## 그림판(Paint JS)
@@ -21,31 +21,33 @@
 <img src="/img/jspaintpic.png" border="1px" width="450" >
 <br>
 <br>
-
-<hr size="5px">
-
-
-
+------------------
+<br>
+<br>
+<br>
+------------------
 ## 쿠킹타이머(Cooking timer JS)
 - Demo : https://d-h-k.github.io/Cook/
 - 사용기술 : HTML,CSS, JavaScript
 <img src="/img/ctimer.png" width="450" >
 <br>
 <br>
-
-<hr size="5px">
-
-
+------------------
+<br>
+<br>
+<br>
+------------------
 ## Firebase샘플(Firebase App)
 - Demo : 
 - 사용기술 : Firebase
 <img src="/img/@@이미지위치@@@" width="450" >
 <br>
 <br>
-
-<hr size="5px">
-
-
+------------------
+<br>
+<br>
+<br>
+------------------
 ## Node REST API(부제/영어)
 - Demo : https://d-h-k.github.io/Paint/(링크)
 - 사용기술 : HTML,CSS, JavaScript

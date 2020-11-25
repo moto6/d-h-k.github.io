@@ -9,7 +9,7 @@
 ## 할일목록(To-Do list JS)
 - Demo : https://d-h-k.github.io/Timer/
 - 사용기술 : HTML,CSS, JavaScript
-<img src="/img/todo.png" width="450" >
+<img src="/img/Todo.png" width="450" >
 <br>
 <br>
 <hr color=#4287f5 size="5px">

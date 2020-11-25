@@ -22,20 +22,37 @@
 <br>
 <br>
 
-<hr color=#4287f5 size="5px">
-<!--- 
+<hr size="5px">
 
+
+
+
+<!--- 
+//저장
+
+
+
+
+
+<hr color=#4287f5 size="5px">
+<img src="/img/jspaintpic.png" width="450" >
 {: width="100" height="100"}
+
+
+
+POST 템플릿
+
+## 제목(부제/영어)
+- Demo : https://d-h-k.github.io/Paint/(링크)
+- 사용기술 : HTML,CSS, JavaScript
+<img src="/img/@@이미지위치@@@" width="450" >
+<br>
+<br>
+
+<hr size="5px">
+
+
 --->
 
 
-### Markdown
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/d-h-k/d-h-k.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

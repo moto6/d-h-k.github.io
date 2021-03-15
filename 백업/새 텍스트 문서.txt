@@ -1,0 +1,8 @@
+시작 -> start command prompt with ruby -> C:\githubPages\theorydb.github.io -> jekyll serve
+
+참고 : jekyll new d-h-k.github.io
+
+
+
+https://dreamgonfly.github.io/blog/jekyll-remote-theme/
+

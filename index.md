@@ -1,5 +1,4 @@
 ## 웹개발자 김동훈의 포트폴리오 페이지 입니다!
-- Powered By : GitHub Pages ,[Jekyll](https://jekyllrb.com/) && [editor on GitHub](https://github.com/d-h-k/d-h-k.github.io/edit/main/index.md) 
 
 # ToDo-List iOS 어플리케이션 백엔드 서버 개발
 - Demo : 아래 사진

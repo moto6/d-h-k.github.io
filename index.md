@@ -1,7 +1,27 @@
 ## 웹개발자 김동훈의 포트폴리오 페이지 입니다!
 - Powered By : GitHub Pages ,[Jekyll](https://jekyllrb.com/) && [editor on GitHub](https://github.com/d-h-k/d-h-k.github.io/edit/main/index.md) 
 
+# ToDo-List iOS 어플리케이션 백엔드 서버 개발
+- Demo : 아래 사진
+- ![](https://user-images.githubusercontent.com/75113784/115102520-5840ae00-9f86-11eb-9cd1-643cb0ff4e37.png)
+- 사용기술 : SpringBoot, MySQL
+- repo : https://github.com/d-h-k/todo-list
+- iOS 개발자들과 협업
 
+# 반찬가게 웹사이트 백엔드 서버 개발
+- Demo : 아래 사진 추가예정
+- ![]()
+- 사용기술 : SpringBoot, MySQL
+- repo : https://github.com/d-h-k/sidedish
+- Front 개발자들과 협업
+
+
+# Q&A 게시판 개발
+- Demo : https://my-qna-dkim.herokuapp.com/
+- ![](![image](https://user-images.githubusercontent.com/31065684/116231503-ee997e80-a793-11eb-8a90-4cab3465444f.png)
+)
+- 사용기술 : SpringBoot, JPA(H2)
+- repo : https://github.com/d-h-k/spring-boot-qna
 
 
 # Firebase샘플(Firebase App)
@@ -19,7 +39,7 @@
 
 
 ## Node REST API(부제/영어)
-- Demo : https://d-h-k.github.io/Paint/(링크)
+- Demo : None
 - 사용기술 : Node.JS, MySQL
 - 설명
 - 1) 메인화면

@@ -7,6 +7,10 @@
 - repo : https://github.com/d-h-k/todo-list
 - iOS 개발자들과 협업
 
+<br>
+<br>
+<br>
+
 # 반찬가게 웹사이트 백엔드 서버 개발
 - Demo : 아래 사진 추가예정
 - ![]()
@@ -14,6 +18,9 @@
 - repo : https://github.com/d-h-k/sidedish
 - Front 개발자들과 협업
 
+<br>
+<br>
+<br>
 
 # Q&A 게시판 개발
 - Demo : https://my-qna-dkim.herokuapp.com/
@@ -21,20 +28,17 @@
 - 사용기술 : SpringBoot, JPA(H2)
 - repo : https://github.com/d-h-k/spring-boot-qna
 
+<br>
+<br>
+<br>
 
 # Firebase샘플(Firebase App)
-- Demo : 
+- Demo : 개발 진행중...
 - 사용기술 : Firebase
-<img src="/img/@@이미지위치@@@" width="450" >
-
-
 
 <br>
 <br>
 <br>
-
-
-
 
 ## Node REST API(부제/영어)
 - Demo : None
@@ -43,25 +47,21 @@
 - 1) 메인화면
   - ![img](./img/20201207-001.png){: width="60%" height="60%"}
   - 메인화면, 기능은 페이지 요소/개발자 각각의 생성, 수정, 삭제
-<br><br>
+<br>
 - 2) 하위 요소 선택시
   - ![img](./img/20201207-003.png){: width="60%" height="60%"}
   - 클릭한 Object에 대한 제목, 설명, 저자에 대한 상세페이지로 이동
   - 해당 상태에서 update를 눌러 글을 수정할 수 있습니다.
-<br><br>
+<br>
 - 3) 하위 요소 수정기능
   - ![img](./img/20201207-004.png){: width="60%" height="60%"}
   - update 버튼을 누르면, DOM에 기본 정보가 이미 저장되어있습니다.
   - 여기서 "제출"버튼을 눌러 SQL서버에 데이터를 저장합니다.
-<br><br>
+<br>
 - 4) 개발자 수정기능
   - ![img](./img/20201207-002.png){: width="60%" height="60%"}
   - "개발자 목록" 을 클릭하면 개발자를 수정,삭제 혹은 생성할 수 있습니다.
   - 
-
-<br>
-<br>
-
 
 <br>
 <br>

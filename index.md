@@ -2,46 +2,6 @@
 - Powered By : GitHub Pages ,[Jekyll](https://jekyllrb.com/) && [editor on GitHub](https://github.com/d-h-k/d-h-k.github.io/edit/main/index.md) 
 
 
-<br>
-<br>
-<br>
-
-
-# 할일목록(To-Do list)
-![img](./img/Todo.png){: width="60%" height="60%"}
-- Demo : [https://d-h-k.github.io/Timer/](https://d-h-k.github.io/Timer/)
-- 사용기술 : HTML,CSS, JavaScript
-- 실제 동작 예시
-
-
-
-<br>
-<br>
-<br>
-
-
-
-# 그림판(Paint JS)
-![img](./img/jspaintpic.png){: width="60%" height="60%"}
-- Demo : [https://d-h-k.github.io/Paint/](https://d-h-k.github.io/Paint/)
-- 사용기술 : HTML,CSS, JavaScript
-
-
-<br>
-<br>
-<br>
-
-
-# 쿠킹타이머(Cooking timer JS)
-![img](./img/ctimer.png){: width="60%" height="60%"}
-- Demo : [https://d-h-k.github.io/Cook/](https://d-h-k.github.io/Cook/)
-- 사용기술 : HTML,CSS, JavaScript
-
-
-<br>
-<br>
-<br>
-
 
 
 # Firebase샘플(Firebase App)
@@ -83,6 +43,49 @@
 
 <br>
 <br>
+
+
+<br>
+<br>
+<br>
+
+
+# 할일목록(To-Do list)
+![img](./img/Todo.png){: width="60%" height="60%"}
+- Demo : [https://d-h-k.github.io/Timer/](https://d-h-k.github.io/Timer/)
+- 사용기술 : HTML,CSS, JavaScript
+- 실제 동작 예시
+
+
+
+<br>
+<br>
+<br>
+
+
+
+# 그림판(Paint JS)
+![img](./img/jspaintpic.png){: width="60%" height="60%"}
+- Demo : [https://d-h-k.github.io/Paint/](https://d-h-k.github.io/Paint/)
+- 사용기술 : HTML,CSS, JavaScript
+
+
+<br>
+<br>
+<br>
+
+
+# 쿠킹타이머(Cooking timer JS)
+![img](./img/ctimer.png){: width="60%" height="60%"}
+- Demo : [https://d-h-k.github.io/Cook/](https://d-h-k.github.io/Cook/)
+- 사용기술 : HTML,CSS, JavaScript
+
+
+<br>
+<br>
+<br>
+
+
 
 # End..
 

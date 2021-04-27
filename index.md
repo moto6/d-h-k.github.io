@@ -18,8 +18,7 @@
 
 # Q&A 게시판 개발
 - Demo : https://my-qna-dkim.herokuapp.com/
-- ![](![image](https://user-images.githubusercontent.com/31065684/116231503-ee997e80-a793-11eb-8a90-4cab3465444f.png)
-)
+- ![image](https://user-images.githubusercontent.com/31065684/116231503-ee997e80-a793-11eb-8a90-4cab3465444f.png)
 - 사용기술 : SpringBoot, JPA(H2)
 - repo : https://github.com/d-h-k/spring-boot-qna
 

@@ -31,7 +31,7 @@
 - 사용기술 : SpringBoot, JPA(H2)
 - repo : https://github.com/d-h-k/spring-boot-qna
 - 코드스쿼드 백엔드 마스터즈 과정을 진행하며 제작한 프로젝트 입니다
-- 
+
 <br>
 <br>
 <br>

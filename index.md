@@ -1,6 +1,8 @@
 # 김동훈 2기(Dong)
 # Web Back-End && Server 개발자 김동훈의 포트폴리오 페이지 입니다!
 - 주로 사용하는 기술 : Java, Spring Boot, MySQL
+- 어렵고 복잡한 문제를 심플하게 해결하길 좋아
+
 
 # ToDo-List iOS 어플리케이션 백엔드 서버 개발
 - Demo : 아래 사진

@@ -1,11 +1,13 @@
-## 웹개발자 김동훈의 포트폴리오 페이지 입니다!
+## Web Back-End && Server 개발자 김동훈의 포트폴리오 페이지 입니다!
+- 주로 사용하는 기술 : Java, Spring Boot, MySQL
 
 # ToDo-List iOS 어플리케이션 백엔드 서버 개발
 - Demo : 아래 사진
 - ![](https://user-images.githubusercontent.com/75113784/115102520-5840ae00-9f86-11eb-9cd1-643cb0ff4e37.png)
 - 사용기술 : SpringBoot, MySQL
 - repo : https://github.com/d-h-k/todo-list
-- iOS 개발자들과 협업
+- 코드스쿼드 백엔드 마스터즈 과정을 진행하며 제작한 프로젝트 입니다
+  - iOS 개발자들과 협업
 
 <br>
 <br>
@@ -16,7 +18,8 @@
 - ![]()
 - 사용기술 : SpringBoot, MySQL
 - repo : https://github.com/d-h-k/sidedish
-- Front 개발자들과 협업
+- 코드스쿼드 백엔드 마스터즈 과정을 진행하며 제작한 프로젝트 입니다
+  - Front 개발자들과 협업
 
 <br>
 <br>
@@ -27,7 +30,8 @@
 - ![image](https://user-images.githubusercontent.com/31065684/116231503-ee997e80-a793-11eb-8a90-4cab3465444f.png)
 - 사용기술 : SpringBoot, JPA(H2)
 - repo : https://github.com/d-h-k/spring-boot-qna
-
+- 코드스쿼드 백엔드 마스터즈 과정을 진행하며 제작한 프로젝트 입니다
+- 
 <br>
 <br>
 <br>

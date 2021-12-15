@@ -1,8 +1,12 @@
-# 김동훈 2기(Dong)
-# 개발자 김동훈의 포트폴리오 페이지 입니다!
-- Web Back-End && Server 분야 job searching중 입니다
-- 주로 사용하는 기술 : Java, Spring Boot, MySQL
-- 어렵고 복잡한 문제를 심플하게 해결하길 좋아합니다
+ # 김동훈(Dong)
+ 
+ ## 소개
+
+- 꾸준히 클린코드에 대해 고민하고 스스로 답을 찾아내고 성장하는 개발자가 되고 싶습니다 
+- 기술스택 : Java, Spring Boot, MySQL
+- 연락처 : 010-7303-1619
+- 깃허브 : https://github.com/d-h-k/
+- 이메일 : ultraraptor@naver.com
 
 <br>
 <br>

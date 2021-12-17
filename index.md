@@ -1,4 +1,4 @@
- # 김동훈(Dong)
+# 김동훈(Dong)
  
 ![자캐사진](https://user-images.githubusercontent.com/31065684/146512739-fbd14299-8268-4b3f-b64f-44be0a9c75b5.png)
 ### 꾸준히 클린코드에 대해 고민하고 스스로 답을 찾아내고 성장하는 개발자가 되고 싶습니다 

@@ -8,7 +8,8 @@
 - 이메일 : ultraraptor@naver.com
 - 기술스택 : Java, Spring Boot, JPA, MySQL, Linux
 
-<br><br><hr><br><br>
+<br><br>
+<br><br>
 
 ## 프로젝트 & 경력
 
@@ -146,7 +147,8 @@
 
 
 
-<br><br><hr><br><br>
+<br><br>
+<br><br>
 
 
 ## 이 페이지의 끝

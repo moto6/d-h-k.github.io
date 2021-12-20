@@ -17,10 +17,10 @@
 
 ### index
 - 프로젝트 
-  - 넘블 이커머스 첼린지 (3주) [이동]()
-  - 코드스쿼드 백엔드 마스터즈 (6개월) [이동]()
+  - 넘블 이커머스 첼린지 (3주) []()
+  - 코드스쿼드 백엔드 마스터즈 (6개월) []()
 - 경력 
-  - 모션디바이스 SW팀 연구원 (2년) [이동]()
+  - 모션디바이스 SW팀 연구원 (2년) []()
 
 <br><br>
 
@@ -28,12 +28,13 @@
 - 🗓 2020.03 ~ 2020.05 [3 months]
 - 🔪 사용기술
   - Java & SpringBoot
-  - JPA, JPQL, QueryDSL, MySQL
-  - SpringMVC, Thymeleaf
+  - JPA, QueryDSL, MySQL
+  - SpringMVC, Thymeleaf(개인단위의 챌린지이므로 간단한 View Page를 구성하는데 사용했습니다)
   - Spring Security, Session
 - 📨 결과 & 성과
   - E-Cummerce 클론코딩(쿠팡) **`백엔드부분 2등`** (카카오개발자 코드리뷰 & 상금 수여)
-  - 개인 프로젝트
+  - 모든 테스트가 성공해야만 integration & deployment 를 진행 (github Action 사용)
+  - Acceptence Test & Spring RestDocs 도입
 - 📽️ 데모
   - 동작영상 : https://youtu.be/dDeGkstXIM4
   - 배포링크 : http://3.34.97.6:8080

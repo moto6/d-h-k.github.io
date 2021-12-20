@@ -3,10 +3,10 @@
 ![자캐사진](https://user-images.githubusercontent.com/31065684/146512739-fbd14299-8268-4b3f-b64f-44be0a9c75b5.png)
 ### 꾸준히 클린코드에 대해 고민하고 스스로 답을 찾아내고 성장하는 개발자가 되고 싶습니다 
 
-- 연락처 : 010-7303-1619
-- 깃허브 : https://github.com/d-h-k
+- 깃허브 : [https://github.com/d-h-k](https://github.com/d-h-k)
 - 이메일 : ultraraptor@naver.com
-- 기술스택 : Java, Spring Boot, JPA, MySQL, Linux
+- 기술스텍 : Java, Spring Boot, JPA, MySQL, Linux
+- 블로그 : [https://velog.io/@d-h-k](https://velog.io/@d-h-k)
 
 <br><br>
 <br><br>
@@ -33,25 +33,24 @@
   - Spring Security, Session
 - 📨 결과 & 성과
   - E-Cummerce 클론코딩(쿠팡) **`백엔드부분 2등`** (카카오개발자 코드리뷰 & 상금 수여)
-  - 모든 테스트가 성공해야만 integration & deployment 를 진행 (github Action 사용)
-  - Acceptence Test & Spring RestDocs 도입
+  - 자동화된 테스트에 연동되는 integration & deployment 시스템 도입
+  - Acceptence Test & Spring RestDocs 도입 중
 - 📽️ 데모
-  - 동작영상 : https://youtu.be/dDeGkstXIM4
-  - 배포링크 : http://3.34.97.6:8080
-  - repo : https://github.com/d-h-k/just-board
-  
+  - 동작영상 : [https://youtu.be/dDeGkstXIM4](https://youtu.be/dDeGkstXIM4)
+  - 배포링크 : [http://3.34.97.6:8080](http://3.34.97.6:8080)
+  - repo : [https://github.com/d-h-k/just-board](https://github.com/d-h-k/just-board)
+
+![pang-clone pic](https://user-images.githubusercontent.com/31065684/146777893-ff47ad3a-90d9-4776-9f55-96932f0dcfa7.png)  
   
 <br><br><br>
 
 ### 코드스쿼드 백엔드 마스터즈 과정
 
 - 📂\[코드스쿼드\] ToDo-List iOS 어플리케이션 백엔드 API 서버 개발
-
-  - Demo  ![](https://user-images.githubusercontent.com/75113784/115102520-5840ae00-9f86-11eb-9cd1-643cb0ff4e37.png)
   - 사용기술 : SpringBoot, MySQL
   - repo : https://github.com/d-h-k/todo-list
   - 코드스쿼드 백엔드 마스터즈 과정을 진행하며 iOS 개발자들과 협업
- 
+![](https://user-images.githubusercontent.com/75113784/115102520-5840ae00-9f86-11eb-9cd1-643cb0ff4e37.png)
 - 📂\[코드스쿼드\] 반찬가게 웹사이트 백엔드 API 서버 개발
   - 사용기술 : SpringBoot, MySQL
   - repo : https://github.com/d-h-k/sidedish
@@ -114,15 +113,16 @@
 ### 리눅스로 개발하기 발표
 - 🗓 2021.12.01
 - Mint 배포판에서 웹 개발이 가능하도록 셋팅 
-- 데모 : https://youtu.be/mPrmi0vrlQM
-  - (코드스쿼드 연말 행사 모임자리여서 농담이 일부 섞여있는 영상입니다)
+- [발표영상 Link](https://youtu.be/mPrmi0vrlQM) : 코드스쿼드 연말 행사 모임자리여서 농담이 일부 섞여있습니다
 
 <br>
 
 ### 물류센터향 딥러닝 군집자율주행로봇 
 - 한컴 MDS 자율주행 SW 개발 전문가과정 최종프로젝트 1위
-- 데모 & 발표영상 : https://youtu.be/grBtP7XDKew
-- 오픈로보틱스 발표영상 : https://youtu.be/XcbJECUckB8
+- [데모 & 발표영상 Link](https://youtu.be/grBtP7XDKew)
+- [오픈로보틱스 발표영상 Link](https://youtu.be/XcbJECUckB8)
+![군집로봇사진](https://user-images.githubusercontent.com/31065684/146779302-3afb3801-fd25-4195-80a0-f468a365d573.png)
+
 
 
 <br>
@@ -132,22 +132,21 @@
 
 <br>
 
-### OpenDAQ
-![openDAQ Pic](https://user-images.githubusercontent.com/31065684/146517921-b803bcb1-3520-4fca-9719-658e60e554a3.png)
-- 데모영상 : https://youtu.be/e53iekqfm-0
-- repo : https://github.com/d-h-k/LabVIEW_PC-Based-oscilloscope
-- 프로젝트 의미
-  - 8 개의 디지털 출력과 6 개의 아날로
+### OpenDAQ 
+- [데모영상](https://youtu.be/e53iekqfm-0) / [repository Link](https://github.com/d-h-k/LabVIEW_PC-Based-oscilloscope)
+
+
+- 8 개의 디지털 출력과 6 개의 아날로
 그 입력을 PC 화면에 시각화하는 프
 로젝트
-  - MCU 에서 디지털 입출력과
+- MCU 에서 디지털 입출력과
 아날로그 입력을 처리 (C언어 사용)
-  - PC 에서 디지털 입출력과 아
+- PC 에서 디지털 입출력과 아
 날로그 입력을 받아 확인할 수 있도록 시각화 (LabVIEW 언어 사용)
-  - 구조화된 애러 핸들링 , 메시지 큐 프
+- 구조화 애러 핸들링 , 메시지 큐 프
 로그램 구조 , 큐 메시지 핸들러 아키텍
 쳐 적용
-
+![openDAQ Pic](https://user-images.githubusercontent.com/31065684/146517921-b803bcb1-3520-4fca-9719-658e60e554a3.png)
 
 
 <br><br>

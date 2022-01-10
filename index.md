@@ -31,13 +31,26 @@
   - JPA, QueryDSL, MySQL
   - SpringMVC, Thymeleaf(개인단위의 챌린지이므로 간단한 View Page를 구성하는데 사용했습니다)
   - Spring Security, Session
-- 📨 결과 & 성과
-  - E-Cummerce 클론코딩(쿠팡) **`백엔드부분 2등`** (카카오개발자 코드리뷰 & 상금 수여)
-  - 자동화된 테스트에 연동되는 integration & deployment 시스템 도입
-  - Acceptence Test & Spring RestDocs 도입 중
+- 📨 결과
+  - E-Cummerce 클론코딩(쿠팡) **`백엔드부분 2등`** ( 코드리뷰 & 상금)
+  - Spring MVC & Thymeleaf 학습
+    - SSR 방식의로, 별도의 프론트엔드 프로젝트 없이 백엔드에서 VIEW PAGE를 SSR 방식으로 구현하였습니다.
+  - git & github 사용해 프로젝트 관리
+    - <img src="https://user-images.githubusercontent.com/31065684/148729031-48b388ce-b177-47a6-be21-d928c2199f66.png" width="300"/>
+    - 개발하려는 주요 기능별 branch 를 구분해서 개발했습니다.
+    - git commit message : 작게 쪼개면서도, 최소한의 의미를 갖는 commit message를 작성하려 노력했습니다.
+  - CI : 자동화된 테스트에 연동되는 integration 시스템 도입
+    - 짧은 주기로 Main branch에 코드를 통합해 개발부터 배포까지의 기간을 단축했습니다.
+    - 추가되는 기능들은 구현전 테스트 코드를 먼저 작성하는 TDD 방법론을 적용해 개발했습니다. 
+    - 서버에 자동으로 deployment 되는 기능도 개발중에 있습니다.
+  - ATDD : Acceptence Test & Spring RestDocs 도입 중
+    - 작성한 코드에 확신을 갖고 배포할수 있도록 Acceptence Test 를 작성했습니다.
+    - Spring RestDocs를 도입해 더욱 customize 된 저만의 API Docs 를 작성했습니다(진행중)
 - 📽️ 데모
   - 동작영상 : [https://youtu.be/dDeGkstXIM4](https://youtu.be/dDeGkstXIM4)
+  <!--
   - 배포링크 : [http://3.34.97.6:8080](http://3.34.97.6:8080)
+  --> 
   - repo : [https://github.com/d-h-k/just-board](https://github.com/d-h-k/just-board)
 
 ![pang-clone pic](https://user-images.githubusercontent.com/31065684/146777893-ff47ad3a-90d9-4776-9f55-96932f0dcfa7.png)  
@@ -68,7 +81,7 @@
   - 업무2 : 조이스틱 Firmware 개발
     - 스포츠 종목별 제작 조종간 펌웨어 제작 : 봅슬레이, 루지, 비행기 등.. 다수
     - 개발환경 : C언어 / ATmega, STM32 Chip 사용 
-    - force feedback wheel 프로젝트 개발Lead
+    - force feedback wheel 프로젝트 개발 참여
   - 업무3 : 서비스 고도화 로봇 개발 프로젝트
     - 시뮬레이터 탑승을 유도하는 서비스 고도화 로봇 개발 정부지원사업 프로젝트
     - 로봇 위치인식 & 위치 제어 소프트웨어 개발

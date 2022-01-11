@@ -46,7 +46,7 @@
 - 📽️ 데모
   - 동작영상 : [https://youtu.be/dDeGkstXIM4](https://youtu.be/dDeGkstXIM4)
   - repo : [https://github.com/d-h-k/just-board](https://github.com/d-h-k/just-board)
-   > <img src="https://user-images.githubusercontent.com/31065684/146777893-ff47ad3a-90d9-4776-9f55-96932f0dcfa7.png" width="600">
+   > <img src="https://user-images.githubusercontent.com/31065684/146777893-ff47ad3a-90d9-4776-9f55-96932f0dcfa7.png" width="600"></image>
 
 <!--
   - 배포링크 : [http://3.34.97.6:8080](http://3.34.97.6:8080)
@@ -60,7 +60,7 @@
   - 사용기술 : SpringBoot, MySQL
   - repo : https://github.com/d-h-k/todo-list
   - 코드스쿼드 백엔드 마스터즈 과정을 진행하며 iOS 개발자들과 협업
- > <img src="https://user-images.githubusercontent.com/75113784/115102520-5840ae00-9f86-11eb-9cd1-643cb0ff4e37.png" width="600">
+ > <img src="https://user-images.githubusercontent.com/75113784/115102520-5840ae00-9f86-11eb-9cd1-643cb0ff4e37.png" width="600"></image>
 - 📂\[코드스쿼드\] 반찬가게 웹사이트 백엔드 API 서버 개발
   - 사용기술 : SpringBoot, MySQL
   - repo : https://github.com/d-h-k/sidedish
@@ -164,18 +164,22 @@
 
 <br>
 
-### STM32 GUI 프로그래밍 경진대회 : 준우승
-- repo : https://github.com/d-h-k/STM32F7508
-
+## STM32 GUI 프로그래밍 경진대회
+- 🗓 2019.05
+- 준우승 (상품 : 스마트워치)
+- 작품명 : GUI 쿠킹 타이머
+  - FreeRTOS 환경에서 Touch GUI App (쿠킹 타이머) 개발
+  - repo : https://github.com/d-h-k/STM32F7508
+  > <image src="https://user-images.githubusercontent.com/31065684/148959991-7cf45e5e-22c6-4b9a-99c8-009019e79fa1.png" width="300"></image>
 <br>
 
-### OpenDAQ 
+## OpenDAQ 
 - [데모영상](https://youtu.be/e53iekqfm-0) / [repository Link](https://github.com/d-h-k/LabVIEW_PC-Based-oscilloscope)
 - 8개 디지털 출력, 6개 아날로그 입력 Data를  화면에 시각화하는 프로그램 개발
 - MCU 에서 아날로그 전압 입력신호를 디지털 통신으로 변환
 - PC에서 RS-232 통신으로 받은 메시지 Data를 GUI 프로그램에서 시각화 (LabVIEW 사용)
   - 큐 메시지 핸들러 아키텍쳐 적용
-  > ![openDAQ Pic](https://user-images.githubusercontent.com/31065684/146517921-b803bcb1-3520-4fca-9719-658e60e554a3.png)
+  > <image src="https://user-images.githubusercontent.com/31065684/146517921-b803bcb1-3520-4fca-9719-658e60e554a3.png" width="300"></image>
 
 <br><br><br><br>
 

@@ -15,10 +15,11 @@
 ## 주요 경력
 > <img src="https://user-images.githubusercontent.com/31065684/148888818-b4b89ecd-ab97-487a-b669-63bacfceaf5e.png" width="600">
 
-- 넘블 이커머스 챌린지 [Link]()
-- 코드스쿼드 Java 백엔드 마스터즈 [Link]()
-- 자율주행 S/W 개발자 교육 [Link]()
-- 모션디바이스 S/W 엔지니어 [Link]()
+### 목차
+- 넘블 E-Commerce 백엔드 클론코딩 챌린지
+- 코드스쿼드 Java 백엔드 마스터즈 
+- 자율주행 S/W 개발자 교육 
+- 모션디바이스 S/W 엔지니어 
 
 <br><br><br><br>
 

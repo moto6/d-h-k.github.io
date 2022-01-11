@@ -1,6 +1,7 @@
 # 안녕하세요 김동훈 입니다
  
-<img src="https://user-images.githubusercontent.com/31065684/146512739-fbd14299-8268-4b3f-b64f-44be0a9c75b5.png" width
+<img src="https://user-images.githubusercontent.com/31065684/146512739-fbd14299-8268-4b3f-b64f-44be0a9c75b5.png" width="450">
+- 저는 어떤 
 ### 꾸준히 클린코드에 대해 고민하고 스스로 답을 찾아내고 성장하는 개발자가 되고 싶습니다 
 
 - 깃허브 : [https://github.com/d-h-k](https://github.com/d-h-k)
@@ -11,7 +12,10 @@
 <br><br>
 <br><br>
 
-## 프로젝트 & 경력
+## 주요 경력
+<img src="https://user-images.githubusercontent.com/31065684/148888818-b4b89ecd-ab97-487a-b669-63bacfceaf5e.png" width="450">
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 경력 적기
 
 <br>
 
@@ -24,16 +28,18 @@
 
 <br><br>
 
-### 넘블 이커머스 백엔드 클론코딩 챌린지
-- 🗓 2020.03 ~ 2020.05 [3 months]
+### 이커머스 백엔드 클론코딩 챌린지
+- Spring 과 MySQL 만을 사용한 `쿠팡` 클론코딩 프로젝트 입니다
+- 🗓 기간 : 2020.03 ~ 2020.05 [3 months]
 - 🔪 사용기술
-  - Java & SpringBoot
-  - JPA, QueryDSL, MySQL
-  - SpringMVC, Thymeleaf(개인단위의 챌린지이므로 간단한 View Page를 구성하는데 사용했습니다)
-  - Spring Security, Session
+  - SpringBoot 
+    - with Java, Spring MVC, Thymeleaf, Spring Security
+  - MySQL
+    - JPA, JPQL, QueryDSL
 - 📨 결과
   - E-Cummerce 클론코딩(쿠팡) **`백엔드부분 2등`** ( 코드리뷰 & 상금)
-  - Spring MVC & Thymeleaf 학습
+  - Spring 
+    - MVC & Thymeleaf 학습
     - SSR 방식의로, 별도의 프론트엔드 프로젝트 없이 백엔드에서 VIEW PAGE를 SSR 방식으로 구현하였습니다.
   - git & github 사용해 프로젝트 관리
     - <img src="https://user-images.githubusercontent.com/31065684/148729031-48b388ce-b177-47a6-be21-d928c2199f66.png" width="300"/>

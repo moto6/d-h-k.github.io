@@ -21,20 +21,19 @@
 <br><br><br><br>
 
 # 이커머스 백엔드 클론코딩 챌린지
-- Spring 과 MySQL 만을 사용한 `쿠팡` 클론코딩 프로젝트 입니다
-- 🗓 기간 : 2020.03 ~ 2020.05 [3 months]
+## Spring 과 MySQL 만을 사용한 `쿠팡` 클론코딩 프로젝트 입니다
+- 🗓 기간 
+  - 2020.03 ~ 2020.05 [3 months]
 - 🔪 사용기술
-  - SpringBoot 
-    - with Java, Spring MVC, Thymeleaf, Spring Security
-  - MySQL
-    - JPA, JPQL, QueryDSL
-- 📨 결과
+  - SpringBoot : with Java, Spring MVC, Thymeleaf, Spring Security
+  - MySQL : JPA, JPQL, QueryDSL
+- 📨 결과 
   - E-Cummerce 클론코딩(쿠팡) **`백엔드부분 2등`** ( 코드리뷰 & 상금)
+## ⚽ 목표 : 기본에 충실하자! (Spring & RDB 만을 충실하게 사용했습니다)
   - Spring 
     - MVC & Thymeleaf 학습
     - SSR 방식의로, 별도의 프론트엔드 프로젝트 없이 백엔드에서 VIEW PAGE를 SSR 방식으로 구현하였습니다.
   - git & github 사용해 프로젝트 관리
-    - <img src="https://user-images.githubusercontent.com/31065684/148729031-48b388ce-b177-47a6-be21-d928c2199f66.png" height="300"/> 
     - 개발하려는 주요 기능별 branch 를 구분해서 개발했습니다.
     - git commit message : 작게 쪼개면서도, 최소한의 의미를 갖는 commit message를 작성하려 노력했습니다.
   - CI : 자동화된 테스트에 연동되는 integration 시스템 도입

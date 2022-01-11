@@ -174,9 +174,5 @@
 
 # 이 페이지의 끝입니다 읽어주셔서 감사합니다
 
-<span style="color:yellow"> 
-
-###### [cookie]() 
-</span>
-
+###### [.](https://drive.google.com/file/d/1yWhjpOxE_PQiotUmvXz2FPlcVaDWf8AC/view?usp=sharing) 
 <!-- 이 사람.. 임베디드 개발자 시절과 학창시절에 뭐했는지 궁금하다면?! 쿠키 클릭! -->

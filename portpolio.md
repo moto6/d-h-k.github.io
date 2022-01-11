@@ -1,5 +1,5 @@
 # 안녕하세요 개발자 김동훈 입니다
-## 주어진 상황에 만족하지않고, 능동적으로 일을 찾고 개선해 나가는 엔지니어이고 싶습니다
+### 주어진 상황에 만족하지않고, 능동적으로 일을 찾고 개선해 나가는 엔지니어이고 싶습니다
 
 > <img src="https://user-images.githubusercontent.com/31065684/146512739-fbd14299-8268-4b3f-b64f-44be0a9c75b5.png" height="300">  
 
@@ -13,10 +13,10 @@
 ## 주요 경력
 > <img src="https://user-images.githubusercontent.com/31065684/148888818-b4b89ecd-ab97-487a-b669-63bacfceaf5e.png" width="600">
 
-- 넘블 이커머스 챌린지 []()
-- 코드스쿼드 Java 백엔드 마스터즈 []()
-- 자율주행 S/W 개발자 교육 []()
-- 모션디바이스 S/W팀 연구원 (2년) []()
+- 넘블 이커머스 챌린지 [Link]()
+- 코드스쿼드 Java 백엔드 마스터즈 [Link]()
+- 자율주행 S/W 개발자 교육 [Link]()
+- 모션디바이스 S/W팀 연구원 (2년) [Link]()
 
 <br><br><br><br>
 
@@ -46,12 +46,12 @@
     - Spring RestDocs를 도입해 더욱 customize 된 저만의 API Docs 를 작성했습니다(진행중)
 - 📽️ 데모
   - 동작영상 : [https://youtu.be/dDeGkstXIM4](https://youtu.be/dDeGkstXIM4)
-  <!--
-  - 배포링크 : [http://3.34.97.6:8080](http://3.34.97.6:8080)
-  --> 
   - repo : [https://github.com/d-h-k/just-board](https://github.com/d-h-k/just-board)
-- > <img src="https://user-images.githubusercontent.com/31065684/146777893-ff47ad3a-90d9-4776-9f55-96932f0dcfa7.png" width="600">
-  
+   > <img src="https://user-images.githubusercontent.com/31065684/146777893-ff47ad3a-90d9-4776-9f55-96932f0dcfa7.png" width="600">
+
+<!--
+  - 배포링크 : [http://3.34.97.6:8080](http://3.34.97.6:8080)
+-->  
 
 <br><br><br><br>
 

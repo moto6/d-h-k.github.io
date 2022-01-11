@@ -16,7 +16,7 @@
 - 넘블 이커머스 챌린지 [Link]()
 - 코드스쿼드 Java 백엔드 마스터즈 [Link]()
 - 자율주행 S/W 개발자 교육 [Link]()
-- 모션디바이스 S/W팀 연구원 (2년) [Link]()
+- 모션디바이스 S/W 엔지니어 [Link]()
 
 <br><br><br><br>
 
@@ -72,11 +72,15 @@
 
 # 자율주행 S/W 개발자 교육
 
-### 물류센터향 딥러닝 군집자율주행로봇 
-- 한컴 MDS 자율주행 SW 개발 전문가과정 최종프로젝트 1위
+## 물류센터향 딥러닝 군집자율주행로봇 제작
+### 성과
+- 한컴 MDS 자율주행 SW 개발 전문가과정 최종프로젝트 `1위(최우수상)`
+### 담당업무
+- 
+### 관련자료
 - [데모 & 발표영상 Link](https://youtu.be/grBtP7XDKew)
 - [오픈로보틱스 발표영상 Link](https://youtu.be/XcbJECUckB8)
-![군집로봇사진](https://user-images.githubusercontent.com/31065684/146779302-3afb3801-fd25-4195-80a0-f468a365d573.png)
+> ![군집로봇사진](https://user-images.githubusercontent.com/31065684/146779302-3afb3801-fd25-4195-80a0-f468a365d573.png)
 
 <br><br><br><br>
 
@@ -165,8 +169,14 @@
 ![openDAQ Pic](https://user-images.githubusercontent.com/31065684/146517921-b803bcb1-3520-4fca-9719-658e60e554a3.png)
 
 
-<br><br>
-<br><br>
+<br><br><br><br>
 
 
-## 이 페이지의 끝
+# 이 페이지의 끝입니다 읽어주셔서 감사합니다
+
+<span style="color:yellow"> 
+
+###### [cookie]() 
+</span>
+
+<!-- 이 사람.. 임베디드 개발자 시절과 학창시절에 뭐했는지 궁금하다면?! 쿠키 클릭! -->

@@ -34,17 +34,16 @@
   - E-Cummerce 클론코딩(쿠팡) **`백엔드부분 2등`** ( 코드리뷰 & 상금)
 ## ⚽ 목표 : 기본에 충실하자! (Spring & RDB 만을 충실하게 사용했습니다)
   - Spring 
-    - MVC & Thymeleaf 학습
-    - SSR 방식의로, 별도의 프론트엔드 프로젝트 없이 백엔드에서 VIEW PAGE를 SSR 방식으로 구현하였습니다.
+    - 대회 규정상 Team단위 참가가 불가능하여 별도의 Frontend Project 없이 Spring MVC와 Thymeleaf 로 SSR 방식의 VIEW PAGE를 구성했습니다.
   - git & github 사용해 프로젝트 관리
-    - 개발하려는 주요 기능별 branch 를 구분해서 개발했습니다.
-    - git commit message : 작게 쪼개면서도, 최소한의 의미를 갖는 commit message를 작성하려 노력했습니다.
+    - 주요 기능별 branch 로 쪼개서 단계별로 기능을 구현해나갔습니다.
+    - commit을 의미있는 최소단위로 작성하며 message 에 의도를 최대한 남기려고 노력했습니다
   - CI : 자동화된 테스트에 연동되는 integration 시스템 도입
     - 짧은 주기로 Main branch에 코드를 통합해 개발부터 배포까지의 기간을 단축했습니다.
     - 추가되는 기능들은 구현전 테스트 코드를 먼저 작성하는 TDD 방법론을 적용해 개발했습니다. 
     - 서버에 자동으로 deployment 되는 기능도 개발중에 있습니다.
   - ATDD : Acceptence Test & Spring RestDocs 도입 중
-    - 작성한 코드에 확신을 갖고 배포할수 있도록 Acceptence Test 를 작성했습니다.
+    - 작성한 코드에 확신을 갖고 배포할수 있도록 Acceptance Test 를 작성했습니다.
     - Spring RestDocs를 도입해 더욱 customize 된 저만의 API Docs 를 작성했습니다(진행중)
 - 📽️ 데모
   - 동작영상 : [https://youtu.be/dDeGkstXIM4](https://youtu.be/dDeGkstXIM4)
